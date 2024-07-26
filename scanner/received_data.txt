@@ -1,0 +1,1 @@
+[{"id":"18","item_code":"762280","name":"SLEEVE","description":"WHITE","size":"S","price":"100","barcode_image":"barcode_images/762280.png","date_created":"2023-07-11 04:36:37"}]
